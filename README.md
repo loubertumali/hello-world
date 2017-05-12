@@ -1,2 +1,4 @@
 # hello-world
-Initial Repository
+Hi Humans,
+
+Lou Bert here, I like Sitecore Development.
